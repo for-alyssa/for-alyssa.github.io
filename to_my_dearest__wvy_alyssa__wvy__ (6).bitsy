@@ -1,0 +1,1337 @@
+to my dearest {wvy}Alyssa{/wvy},
+
+# BITSY VERSION 8.13
+
+! VER_MAJ 8
+! VER_MIN 13
+! ROOM_FORMAT 1
+! DLG_COMPAT 0
+! TXT_MODE 0
+
+PAL 0
+204,87,107
+216,232,255
+216,232,255
+NAME blueprint
+
+ROOM 0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,a,b,c,e,e,d,b,c,e,e,d,b,c,a,0
+0,a,c,0,0,0,0,0,0,0,0,0,0,e,a,0
+0,a,e,0,0,0,0,0,0,0,0,0,0,e,a,0
+0,a,e,0,0,0,0,0,0,0,0,0,0,d,a,0
+0,a,d,0,0,0,0,0,0,0,0,0,0,b,a,0
+0,a,f,0,0,0,0,0,0,0,0,0,0,f,a,0
+0,a,b,0,0,0,0,0,0,0,0,0,0,c,a,0
+0,a,c,0,0,0,0,0,0,0,0,0,0,b,a,0
+0,a,e,0,0,0,0,0,0,0,0,0,0,d,a,0
+0,a,e,0,0,0,0,0,0,0,0,0,0,e,a,0
+0,a,d,0,0,0,0,0,0,0,0,0,0,e,a,0
+0,a,b,c,e,e,d,b,c,e,e,d,b,c,a,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME lobby
+ITM 0 11,6
+ITM 2 5,3
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,a,l,l,l,l,l,n,o,m,q,c,m,p,a,0
+0,a,l,l,l,0,l,0,0,0,0,0,0,0,a,0
+0,a,g,g,g,g,g,0,0,0,0,0,0,0,a,0
+0,a,l,l,l,l,l,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,g,g,g,g,g,0,0,0,0,0,0,0,a,0
+0,a,l,l,l,l,l,0,i,j,j,j,j,j,a,0
+0,a,0,0,0,0,0,0,h,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,h,0,0,k,k,k,a,0
+0,a,r,r,0,r,r,0,h,0,0,0,0,k,a,0
+0,a,k,k,k,k,k,0,0,0,0,k,k,k,a,0
+0,a,k,k,k,k,k,0,0,0,0,0,t,0,a,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME airport
+PAL 0
+
+ROOM 2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME bridge
+PAL 0
+
+ROOM 3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,a,i,w,w,w,w,w,w,w,w,w,w,z,a,0
+0,a,h,0,0,0,0,0,0,0,0,0,0,h,a,0
+0,a,h,0,0,0,0,0,0,0,0,0,0,h,a,0
+0,a,h,0,0,0,0,0,0,0,0,0,0,y,v,v
+a,a,h,0,0,0,0,0,14,0,0,0,0,0,0,0
+0,0,h,0,0,0,0,11,10,12,0,0,0,0,0,0
+0,0,h,0,0,0,0,0,13,0,0,0,0,0,0,0
+a,a,h,0,0,0,0,0,0,0,0,0,0,i,j,j
+0,a,h,0,0,0,0,0,0,0,0,0,0,h,a,0
+0,a,h,0,0,0,0,0,0,0,0,0,0,h,a,0
+0,a,h,0,0,0,0,0,0,0,0,0,0,h,a,0
+0,a,y,v,v,v,v,v,v,v,v,v,v,u,a,0
+0,a,a,a,a,a,a,a,a,a,a,a,a,a,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME future
+EXT 15,6 5 0,6
+EXT 15,7 5 0,7
+EXT 15,8 5 0,8
+PAL 0
+
+ROOM 4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,a,a,a,a,a,a,a,a,0,0,0,0
+0,0,0,0,a,0,0,0,0,0,0,a,0,0,0,0
+0,0,0,0,a,0,0,0,0,0,0,a,0,0,0,0
+0,0,0,0,a,0,0,0,0,0,0,a,0,0,0,0
+0,0,0,0,a,a,a,a,a,a,a,a,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME ending
+PAL 0
+
+ROOM 5
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,0,0,0,0,0,0,0
+0,a,i,w,w,w,w,z,a,0,0,0,0,0,0,0
+v,v,u,0,0,0,0,h,a,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,h,a,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,h,a,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,h,a,0,0,0,0,0,0,0
+w,w,z,0,0,0,0,h,a,0,0,0,0,0,0,0
+0,a,y,v,v,v,v,u,a,0,0,0,0,0,0,0
+0,a,a,a,a,a,a,a,a,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME reading corner
+EXT 0,6 3 15,6
+EXT 0,7 3 15,7
+EXT 0,8 3 15,8
+PAL 0
+
+TIL 10
+01111110
+11111111
+11100111
+11011011
+11011011
+11100111
+11111111
+01111110
+NAME rug
+
+TIL 11
+00000000
+00000001
+00001111
+00011111
+00011111
+00001111
+00000001
+00000000
+NAME rug2
+
+TIL 12
+00000000
+10000000
+11110000
+11111000
+11111000
+11110000
+10000000
+00000000
+NAME rug3
+
+TIL 13
+00111100
+00010000
+00001000
+00001000
+00000000
+00010000
+00000000
+00000000
+NAME rug4
+
+TIL 14
+00000000
+00000000
+00010000
+00010000
+00001000
+00000000
+00010000
+00111100
+NAME rug
+
+TIL a
+00000000
+00000000
+00000000
+00011000
+00011000
+00000000
+00000000
+00000000
+NAME block
+WAL true
+
+TIL b
+11111111
+10000001
+10100001
+10100001
+10100001
+10111101
+10000001
+11111111
+NAME L
+WAL true
+
+TIL c
+11111111
+10000001
+10111101
+10100101
+10100101
+10111101
+10000001
+11111111
+NAME O
+WAL true
+
+TIL d
+11111111
+10000001
+10100101
+10111101
+10000101
+10111101
+10000001
+11111111
+NAME Y
+WAL true
+
+TIL e
+11111111
+10000001
+10100001
+10100001
+10111101
+10111101
+10000001
+11111111
+WAL true
+
+TIL f
+11111111
+10011001
+10011001
+11100111
+11100111
+10011001
+10011001
+11111111
+WAL true
+
+TIL g
+00000000
+00000000
+00000000
+11111111
+11111111
+11111111
+00000000
+00000000
+NAME gate wall
+WAL true
+
+TIL h
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+NAME rectangle
+WAL true
+
+TIL i
+00001111
+00001111
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+NAME top rect
+WAL true
+
+TIL j
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL k
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME wall
+WAL true
+
+TIL l
+00000000
+00111100
+00111100
+00111100
+11111111
+10111101
+10100101
+10100101
+NAME chair
+
+TIL m
+11111111
+10000001
+10111101
+10100001
+10100001
+10100001
+10000001
+11111111
+NAME R
+WAL true
+
+TIL n
+11111111
+10000001
+10111101
+10100101
+10111101
+10100101
+10000001
+11111111
+NAME A
+WAL true
+
+TIL o
+11111111
+10000001
+10111101
+10011001
+10011001
+10111101
+10000001
+11111111
+NAME I
+WAL true
+
+TIL p
+11111111
+10000001
+10111101
+10011001
+10011001
+10011001
+10000001
+11111111
+NAME T
+WAL true
+
+TIL q
+11111111
+10000001
+10111101
+10100101
+10111101
+10100001
+10000001
+11111111
+NAME P
+WAL true
+
+TIL r
+00000000
+00000000
+00000000
+11111111
+11111111
+11111111
+11111111
+11111111
+NAME billboard wall
+WAL true
+
+TIL t
+00000000
+00000000
+00010000
+00001000
+11111100
+00001000
+00010000
+00000000
+>
+00000000
+00000000
+00001000
+00000100
+01111110
+00000100
+00001000
+00000000
+NAME arrow
+
+TIL u
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+11111100
+11111100
+WAL true
+
+TIL v
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+11111111
+11111111
+WAL true
+
+TIL w
+11111111
+11111111
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+WAL true
+
+TIL y
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+00001111
+00001111
+WAL true
+
+TIL z
+11111100
+11111100
+00001100
+00001100
+00001100
+00001100
+00001100
+00001100
+WAL true
+
+SPR 11
+00000000
+01111110
+01000010
+01111110
+01000010
+01111110
+01000010
+01111110
+NAME shelf2
+POS 3 11,11
+
+SPR 12
+00000000
+01111110
+01000010
+01111110
+01000010
+01111110
+01000010
+01111110
+NAME shelf3
+POS 3 12,11
+
+SPR 13
+01111110
+01111110
+01000010
+01111110
+01000010
+01111110
+01000010
+01111110
+NAME shelf4
+POS 3 12,12
+
+SPR 14
+00000000
+11111111
+11111111
+11111111
+10000000
+11111111
+11000000
+11000000
+NAME desk
+POS 3 6,12
+
+SPR 15
+00000000
+11111111
+11111111
+11111111
+00000000
+11111111
+00000000
+00000000
+NAME desk2
+POS 3 7,12
+
+SPR 16
+00011100
+11111111
+11111111
+11111111
+00000001
+11111111
+00000011
+00000011
+NAME desk3
+POS 3 8,12
+
+SPR 17
+00000000
+00001000
+00010100
+00001000
+00001000
+00011100
+00011100
+00011100
+NAME desk4
+POS 3 8,11
+
+SPR 18
+00000000
+01111110
+01001010
+01010010
+01111110
+00011000
+00111100
+11111111
+>
+00000000
+01111110
+01010010
+01001010
+01111110
+00011000
+00111100
+11111111
+NAME tv
+POS 3 6,3
+
+SPR 19
+11111111
+11111111
+10000001
+00000000
+00000000
+00000000
+00000000
+00000000
+NAME tv2
+POS 3 6,4
+
+SPR A
+00000000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+POS 0 6,6
+
+SPR a
+00000000
+00001110
+00001110
+00001110
+00001110
+01111110
+01111110
+01111110
+NAME foot
+DLG 3
+POS 0 10,11
+
+SPR b
+00000000
+00011000
+00011000
+00111100
+01011010
+10011001
+00100100
+01000010
+NAME worker
+DLG 5
+POS 1 11,11
+
+SPR c
+00000000
+00011000
+00011000
+00111100
+01111110
+10111101
+00100100
+00100100
+NAME airport person
+DLG 6
+POS 1 5,3
+
+SPR d
+00000000
+00011000
+00011000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME airport finley
+DLG 7
+POS 1 13,13
+
+SPR e
+00000000
+00000000
+00000000
+11111111
+10000101
+10100101
+10010001
+11111111
+NAME billboard
+DLG 8
+POS 1 4,11
+
+SPR f
+11111111
+10000001
+10000101
+10000001
+10010101
+10110001
+10000001
+11111111
+>
+11111111
+10000001
+10100101
+10010001
+10001101
+10010001
+10000001
+11111111
+NAME glass
+DLG 9
+POS 1 13,3
+
+SPR g
+11111111
+10000001
+10010001
+10000001
+10100101
+10010101
+10000001
+11111111
+>
+11111111
+10000001
+10000101
+10101001
+10100001
+10010101
+10000001
+11111111
+NAME glass2
+DLG 9
+POS 1 13,4
+
+SPR h
+11111111
+10000001
+10001001
+10000001
+10111001
+10010101
+10000001
+11111111
+>
+11111111
+10000001
+10001001
+10100101
+10100001
+10010101
+10000001
+11111111
+NAME glass3
+DLG 9
+POS 1 13,5
+
+SPR i
+11111111
+10000001
+10010001
+10100001
+10010011
+10001101
+10000001
+11111111
+>
+11111111
+10000101
+10000001
+10100101
+10010011
+10001001
+10000001
+11111111
+DLG 9
+POS 1 13,6
+
+SPR j
+11111111
+10000001
+10110001
+10010101
+10011001
+10100001
+10000101
+11111111
+>
+11111111
+10000001
+10101001
+10010101
+10001001
+10100001
+10000101
+11111111
+DLG 9
+POS 1 13,7
+
+SPR k
+00000000
+00011000
+00011000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME future finley
+DLG a
+POS 5 6,7
+
+SPR l
+01010000
+01110001
+11110001
+01110010
+01111100
+01111100
+01111100
+01000100
+>
+01010000
+01110000
+11110000
+01110010
+01111101
+01111101
+01111100
+01000100
+NAME ginoooooo
+DLG b
+POS 3 10,7
+
+SPR m
+00000000
+00011000
+00011000
+00111100
+01011010
+00011000
+00100100
+00100100
+NAME ending finley
+POS 4 9,7
+
+SPR n
+00000000
+00000000
+00000000
+11111111
+10110011
+10011001
+10100101
+11111111
+NAME local flyer
+DLG d
+POS 1 3,11
+
+SPR o
+11111111
+10000001
+10011001
+11100111
+11100111
+10011001
+10000001
+11111111
+NAME drawer
+DLG f
+POS 3 3,12
+
+SPR p
+11111111
+10000001
+10011001
+10011001
+10011001
+10100001
+10000001
+11111111
+NAME picture
+DLG g
+POS 3 3,11
+
+SPR q
+01111100
+01111100
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+NAME window1
+DLG h
+POS 3 2,7
+
+SPR r
+01100000
+01100000
+01100000
+01100000
+01100000
+01100000
+01111100
+01111100
+NAME window2
+DLG h
+POS 3 2,8
+
+SPR s
+00011000
+00011000
+01111110
+01000010
+01000010
+01000010
+01000010
+11000011
+>
+00011000
+00011000
+01111110
+01000010
+01000010
+01000010
+01000010
+01100110
+NAME jb
+
+SPR t
+11111111
+10101011
+11010101
+10101011
+11010101
+10101011
+11010101
+11111111
+NAME chessboard
+
+SPR v
+00000000
+10000000
+10000000
+11110000
+11111111
+11111111
+11111111
+10000000
+NAME bed1
+POS 3 3,3
+
+SPR w
+00000000
+00000000
+00000000
+00000000
+11111100
+11111100
+11111100
+00000100
+NAME bed2
+POS 3 4,3
+
+SPR x
+00001000
+00111110
+00101110
+00111110
+00101110
+00111110
+00101110
+00111110
+NAME tree1
+POS 3 5,12
+
+SPR y
+00000000
+00000100
+00001010
+00000100
+00101000
+01011000
+00101000
+00001000
+NAME tree2
+POS 3 5,11
+
+SPR z
+01111110
+01111110
+01000010
+01111110
+01000010
+01111110
+01000010
+01111110
+NAME shelf1
+POS 3 11,12
+
+SPR 1a
+11111110
+10000010
+10010010
+10000010
+11111110
+10000010
+10010010
+10000010
+NAME drawer
+POS 3 10,3
+
+SPR 1b
+11111110
+10000010
+10010010
+10000010
+11111110
+11111110
+10000010
+00000000
+NAME drawer2
+POS 3 10,4
+
+ITM 0
+00010000
+00001010
+00110100
+01001010
+00001000
+00111100
+00011000
+00011000
+>
+00000100
+01001010
+00110010
+00001010
+00001000
+00111100
+00011000
+00011000
+NAME plant
+DLG 1
+
+ITM 1
+00000000
+00111100
+00100100
+00111100
+00010000
+00011000
+00010000
+00011000
+NAME key
+DLG 2
+BLIP 2
+
+ITM 2
+00000000
+01100110
+11111111
+11111111
+11111111
+01111110
+00111100
+00011000
+NAME chocolate
+DLG 4
+
+ITM 3
+10100001
+11100001
+11100010
+11111100
+01111100
+01111100
+01000100
+01000100
+NAME gino
+
+DLG 1
+"""
+(a very nice looking bouquet of flowers){pg}(they are very calming and tranquil){pg}(as you hold them, a distinct
+reminiscence envelops you){pg}(you grab the flowers and situate them in your hand)
+"""
+NAME plant dialog
+
+DLG 2
+A key! {wvy}What does it open?{wvy}
+NAME key dialog
+
+DLG 3
+"""
+{wvy}foot{/wvy} -
+hello there missus{pg}{wvy}foot{/wvy} -
+what brings you to these parts?{pg}{wvy}alyssa{/wvy} -
+my boyfriend sent me a link and now i'm playing this weird game{pg}{wvy}foot{/wvy} -
+{shk}OH!?{/shk}{pg}...{pg}{wvy}foot{/wvy} -
+you must be that {rbw}{wvy}GIRL{/wvy}{/rbw} that he can't seem to shut up about!!{pg}...
+({wvy}foot{/wvy} is inspecting you){pg}{wvy}foot{/wvy} -
+yes, yes...{pg}...{pg}({wvy}foot{/wvy} is muttering something
+about ethereal brown eyes){pg}{wvy}foot{/wvy} -
+well, he certainly was right...{pg}{wvy}foot{/wvy} -
+you are completely {wvy}spellbinding...{/wvy}{pg}...
+(foot is grinning now){pg}{wvy}foot{/wvy} -
+come with me, missus.{pg}{exit "1" 8 5 "fade_w"}{wvy}alyssa{/wvy} -
+woah.{pg}{wvy}alyssa{/wvy} -
+is this...{pg}{wvy}foot{/wvy} -
+he is waiting for you.
+"""
+NAME foot dialogue intro
+
+DLG 4
+"""
+(a heart-shaped box of chocolates){pg}(you inspect the contents of the box and find a note){pg}(my dearest,
+will yo-){pg}(the note is scratched off there){pg}(curious, you pick up the box and hold it gently)
+"""
+NAME chocolate dialog
+
+DLG 5
+"""
+{wvy}worker{/wvy} -
+hey.{pg}...{pg}{wvy}alyssa{/wvy} -
+...hey?{pg}...{pg}{wvy}worker{/wvy} -
+tea?{pg}...
+"""
+NAME worker
+
+DLG 6
+"""
+{wvy}random person{/wvy} -
+aren't airports just the coolest?{pg}...{pg}{wvy}random person{/wvy} -
+i always wanted to fall in love in an airport.
+"""
+NAME airport person
+
+DLG 7
+"""
+{wvy}alyssa{/wvy} -
+wait.{pg}{wvy}finley{/wvy} -
+do you remember how high i jumped??{pg}{wvy}finley{/wvy} -
+i think i was just so shocked that...{pg}{wvy}finley{/wvy} -
+...i mean, look at you{pg}({wvy}finley{/wvy} is gazing at you
+with a strange, wispy longing){pg}{wvy}alyssa{/wvy} -
+what is this?{pg}{wvy}finley{/wvy} -
+i was never too fond of valentines.{pg}{wvy}finley{/wvy} -
+all of the consumerist stuff...{pg}{wvy}finley{/wvy} -
+and the difficulty it carried for single people...{pg}{wvy}finley{/wvy} -
+but...{pg}{wvy}finley{/wvy} -
+i liked the idea of just celebrating love.{pg}{wvy}finley{/wvy} -
+you know what i mean?{pg}{wvy}finley{/wvy} -
+like, at least if the corporate conglomerate patriarchs were making money from something,{pg}{wvy}finley{/wvy} -
+it was from love.{pg}{wvy}finley{/wvy} -
+and now that i actually have someone to love...{pg}{wvy}finley{/wvy} -
+a girl i can call my home...{pg}({wvy}finley{/wvy} trails off, and is once again gazing at you, with affection and adoration visible in his eyes){pg}{wvy}finley{/wvy} -
+so, to answer your question,{pg}{wvy}finley{/wvy} -
+this is a place where i can ask you a little something.{pg}{wvy}finley{/wvy} -
+but first, it is that time of the year,{pg}{wvy}finley{/wvy} -
+and i have so much love to celebrate with you.{pg}{wvy}finley{/wvy} -
+so before i ask you that something,{pg}{wvy}finley{/wvy} -
+my beautiful girl,{pg}{wvy}finley{/wvy} -
+do you want to come celebrate our love with me?{pg}...{pg}({wvy}finley{/wvy} remembers that he doesn't know how to program dialogue input, so he just grabs your hand){pg}{exit "3" 4 5 "fade_w"}
+"""
+NAME airport finley dialog
+
+DLG 8
+(there's a bulletin flyer advertising an airline){pg}(it reads as follows:){pg}fall in love with the {wvy}{rbw}colossal{/rbw}{/wvy} world around you!{pg}(love seems to really be everywhere here...){pg}(maybe it's a sign)
+NAME airline dialogue
+
+DLG 9
+(a window overlooking a mountainous view){pg}(a multitude of planes speckle the sky){pg}(from here, they look like little dots hovering in the air){pg}(the sight is eerily heartwarming){pg}(you look at the sky and exhale gently)
+NAME window dialogue
+
+DLG a
+"""
+{wvy}finley{/wvy} -
+...{pg}{wvy}finley{/wvy} -
+this hasn't happened.{pg}{wvy}finley{/wvy} -
+at least, not yet.{pg}{wvy}finley{/wvy} -
+this is what i dream of with you.{pg}{wvy}finley{/wvy} -
+a cozy house, nice furnishings...{pg}{wvy}finley{/wvy} -
+the best dog in the world...{pg}{wvy}finley{/wvy} -
+one of the nooks, of course...{pg}{wvy}finley{/wvy} -
+a shower with space for two...{pg}{wvy}finley{/wvy} -
+and room for a family.{pg}{wvy}finley{/wvy} -
+but more than anything,{pg}...
+(he's holding your hand now){pg}{wvy}finley{/wvy} -
+i just dream of eternity with this really wonderful woman that found me in an airport in the middle of nowhere.{pg}...
+(happiness fills his eyes){pg}{wvy}finley{/wvy} -
+i have a question, {wvy}alyssa{/wvy}.{pg}{wvy}finley{/wvy} -
+come with me, my love{pg}{exit "4" 6 7 "fade_w"}
+"""
+NAME future dialogue
+
+DLG b
+"""
+(a dog with the cutest brown fur you've ever seen){pg}(on its collar, a phone number is written beneath a hyphenated last name){pg}(the koester-chatlains...){pg}(you flip the tag to the other side and see a name){pg}(in a gorgeous font, {wvy}Gino{/wvy} is written on the other side){pg}...{pg}(even though this is the first time you've seen him,){pg}{wvy}gino{/wvy} looks at you like he's known you his whole life){pg}...
+(maybe he has)
+"""
+NAME gino dialogue
+
+DLG c
+"""
+{wvy}finley{/wvy} -
+Alyssa.{pg}{wvy}finley{/wvy} -
+as of today, I have spent 5 months with you.{pg}...
+({wvy}finley{/wvy} smiles at this fact){pg}{wvy}finley{/wvy} -
+and i know that isn't the longest time...{pg}{wvy}finley{/wvy} -
+but i've never been so certain about anything like I am about you.{pg}{wvy}finley{/wvy} -
+Alyssa, you've completely changed my life.{pg}{wvy}finley{/wvy} -
+you've stuck by my side through overwhelming loss,{pg}{wvy}finley{/wvy} -
+and sorrow and struggle and fear,{pg}{wvy}finley{/wvy} -
+and not once have you faltered.{pg}{wvy}finley{/wvy} -
+{pg}{wvy}finley{/wvy}
+"""
+NAME ending dialogue
+
+DLG d
+"""
+(a local flyer on the bulletin with a strange decal){pg}(it looks official and urgent!)
+(the text reads:){pg}LOCAL SIGN {shk}VANDALS{/shk}
+any information welcomed
+------------------------
+Two kids (15-16), M and F, blond hair and black hair respectively. Stole a road sign warning drivers of speed bumps and threw it into the Clark Fork River. Furthermore, serially engaged in intimate acts in public across the Pacific Northwest and committed general indecency. Any information about these scoundrels will be compensated!{pg}...
+(wonder who these two idiots are)
+"""
+NAME local flyer
+
+DLG e
+ 
+
+DLG f
+"""
+...
+(a drawer filled with possessions){pg}(you sift through the items){pg}(two passports are stashed at the bottom){pg}(as you flip through the pages,{pg}you see uncountable stamps covering the pages){pg}(it seems these people have gone everywhere together){pg}...
+(it all feels oddly familiar)
+"""
+NAME drawer dialogue
+
+DLG g
+(a framed picture 
+NAME picture dialogue
+
+DLG h
+"""
+...
+(a window overlooking a cityscape){pg}(it is mid-day, in a gradient to night){pg}(the hues in the sky are clear, sharp, inviting){pg}(central park lies beneath you, in all its lush foliage){pg}(a framed diploma hangs proudly next to the window){pg}(at the center are three emboldened words and a signature){pg}(the diploma is from New York University,{pg}signed to an {wvy}Alyssa Koester{/wvy}){pg}...
+(this place feels like home)
+"""
+NAME window apartment
+
+DLG i
+"""
+...
+(a bed with room for two){pg}(the sheets are gently ruffled
+and there is 
+"""
+NAME bed dialogue
+
+DLG j
+"""
+...
+(a shelf with ){pg}(sorting through the clothes,
+you see 
+"""
+NAME shelf dialogue
+
+DLG k
+"""
+...
+(a large, flat-screen TV){pg}(it's playing some weird show
+about rich high schoolers){pg}(some girl named {wvy}blair{/wvy}, maybe?{pg}(and a blonde girl who is kinda annoying){pg}...
+(there is a lot of freakiness){pg}(that is one weird ass show)
+"""
+NAME television dialogue
+
+TUNE 2
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,2G,0
+G3,0,D,0,G3,0,D,0,2A3,0,E,0,C,0,E,0
+>
+2F#,0,G,0,A,0,F#,0,2E,0,F#,E,4D,0,0,0
+2D,0,E,0,F#,0,D,0,2C,0,2G3,0,2F#3,0,D2,0
+>
+0,0,2G,0,A,0,B,0,2C5,0,B,A,G,0,G,0
+2G2,0,D,D5,G3,G,D,0,2C2,0,E,E5,C3,C,E5,0
+>
+2D,0,C5,B,A,0,A,0,4A,0,0,0,F#,0,0,0
+A2,0,E3,0,C3,0,E3,0,D3,0,A3,0,D,0,0,0
+>
+2E5,0,2G,0,2G5,0,2G,0,2F#5,0,2E5,0,2D5,0,2C5,0
+2C3,0,2E,0,2E5,0,2C,0,2A3,0,2C,0,2F#,0,2E,0
+>
+3B,0,0,0,2E5,0,D5,0,4A,0,0,0,G,0,0,0
+2G3,0,B3,0,2D,0,D3,0,2C3,0,G3,0,D#,0,0,0
+>
+0,0,2G,0,A,0,2B,0,C5,0,B,C5,A,0,G,0
+A2,0,A3,0,C,0,2D,0,D#,0,D,E,C,0,C3,0
+>
+8B,0,0,0,0,0,0,0,A,0,2F#,0,E,0,D,0
+D3,0,A3,0,F#,0,D,0,C,0,2D3,0,C3,0,F#3,0
+NAME tuneful town
+TMP FST
+SQR P4 P2
+
+TUNE 3
+3F5,0,0,A#,0,2C#5,0,A#,3F5,0,0,F#5,0,0,2F5,0
+A#3,C#,F,0,0,F,C#,F,A#3,C#,F,A#,0,A#,C#,F
+>
+3F5,0,0,A,0,2C#5,0,A,3F5,0,0,2A#5,0,A#,D#5,0
+A3,C#,F,A3,0,F,C#,F,A,C#,F,0,D#,0,C#5,0
+>
+4F5,0,0,0,G#,2C#5,0,G#,3F5,0,0,D#5,0,F5,2C#5,0
+G#3,C#,F,3F#,0,0,2F,0,G#3,C#,F,F#,B,A,F,D#
+>
+4D#5,0,0,0,0,0,2A#,0,4A#,0,0,0,0,0,A#,C5
+G3,D#,F,G,0,D#,F,G,G3,D#,G,F,0,F,D#,C#3
+>
+4C#5,0,0,0,0,0,2C#5,0,3C#5,0,0,D#5,0,0,2C#5,0
+F#2,C#,F#3,A#3,0,F#3,C#3,F#3,F#2,A,F#3,C#,0,F#3,A3,F#3
+>
+3C#5,0,0,F,3C5,0,0,C,3C5,0,0,D#,3A#,0,0,0
+F2,D#3,A3,0,0,F3,C#,0,F#2,A#3,D#3,0,0,F#3,C#,C
+>
+3A#,0,0,0,C5,0,C#5,0,A#,0,C#,D#,G#,G#3,0,C#3
+C3,A#3,C,E,A,0,A#,0,0,B2,B3,0,2F,0,0,0
+>
+A#,0,A#3,0,C#,0,F,0,A#,0,0,0,0,0,0,0
+A#2,0,C#3,0,F3,0,A#3,0,D,0,0,0,0,F#3,0,F3
+NAME rhythmic ruins
+TMP MED
+SQR P4 P4
+
+BLIP 1
+E5,B5,B5
+NAME meow
+ENV 40 99 4 185 138
+BEAT 61 115
+SQR P2
+
+BLIP 2
+D5,E5,D5
+NAME pick up key
+ENV 99 65 6 96 152
+BEAT 95 0
+SQR P4
+
